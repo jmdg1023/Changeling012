@@ -1,8 +1,28 @@
 {
+  "name": "changeling012",
+  "version": "1.0.0",
+  "description": "```Changeling - A word of play for 'Challenging'```",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdg1023/Changeling012.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmdg1023/Changeling012/issues"
+  },
+  "homepage": "https://github.com/jmdg1023/Changeling012#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "dotenv": "^16.0.3",
-    "inquirer": "8.2.4",
+    "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
   }
 }
