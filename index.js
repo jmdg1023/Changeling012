@@ -1,7 +1,7 @@
 const cTable = require("console.table")
 const inquirer = require("inquirer")
 const handlers = require("./lib/handlers");
-const handlers = require("./lib/handlers")
+
 
 const loadApp = async () => {
     const openingChoices = [
