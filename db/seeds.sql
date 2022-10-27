@@ -22,7 +22,7 @@ VALUES
 ("IT Senior Analyst", 100000, 3),
 ("IT Analyst", 85000, 3),
 ("Network Engineer", 90000, 3),
-(" Senior Network Engineer", 95000, 3),
+(" Senior Network Engineer", 95000, 3);
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id, is_manager)
 VALUES 
@@ -38,6 +38,6 @@ VALUES
 ("Jaspreet", "Deol", 10, 5, 0),
 ("Chandelle", "Adams", 11, null, 1),
 ("Dennis", "Choi", 12, 10, 0),
-("Maurice", "Iglesias", 10, 12, 0);
+("Maurice", "Iglesias", 10, 12, 0),
 ("Ivy", "Librada", 14, 10, 0),
 ("Trixy", "Stanoui", 15, 10, 0);
